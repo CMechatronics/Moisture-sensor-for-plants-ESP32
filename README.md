@@ -17,7 +17,7 @@ Components will you need:
 
 The operating principle of the sensor is based on capacitance. Our dielectric will be the peat, where a change in the orientation of dipoles will affect the electric field, causing it to increase or decrease.
 
-In a capacitive sensor, the dielectric (in this case, the moisture in the soil) contains water molecules, which are dipoles, meaning they have an uneven distribution of electric charge. When the electric field changes, these dipoles align with the field, affecting the sensor's capacitance.
+When the electric field changes, these dipoles align with the field, affecting the sensor's capacitance.
 
 The more water present in the soil, the more dipoles are present, which alters the material's ability to store electric charge (capacitance). That's why capacitive sensors can detect changes in moisture by measuring this variation in capacitance.
 
