@@ -15,7 +15,7 @@ Components will you need:
 
 ·LCD I2C 16x2 Matrix 
 
-The operating principle of the sensor is based on capacitance. Our dielectric will be the soil, where a change in the orientation of dipoles will affect the electric field, causing it to increase or decrease.
+The operating principle of the sensor is based on capacitance. Our dielectric will be the peat, where a change in the orientation of dipoles will affect the electric field, causing it to increase or decrease.
 
 In a capacitive sensor, the dielectric (in this case, the moisture in the soil) contains water molecules, which are dipoles, meaning they have an uneven distribution of electric charge. When the electric field changes, these dipoles align with the field, affecting the sensor's capacitance.
 
