@@ -1,11 +1,12 @@
-Este código te convierte los valores que ofrece el transudctor y establece un límite superior e inferior creando así una escala de medida de humedad expresada en porcentaje.
+This code converts the values provided by the transducer and sets an upper and lower limit, thus creating a moisture measurement scale expressed as a percentage.
 
-Deberás hallar una media de los valores recibidos en el monitor serie en seco, luego deberás hacerlo en mojado totalmente.
+You will need to find an average of the values received in the serial monitor when dry, and then do the same when completely wet.
 
-Los valores medios serán sustituidos en las siguientes constantes:
+The average values will be substituted in the following constants:
 
-const int DRY_MEDIA_VALUE = "tu valor medio en seco";
+```cpp
+const int DRY_MEDIA_VALUE = "your dry average value";
+const int WET_MEDIA_VALUE = "your wet average value";
+```
 
-const int WET_MEDIAVALUE = "tu valor medio en mojado";
-
-El valor medio será más preciso cuantos más valores instantaneos incluyas en la media. (Yo incluí 100 valores).
+The average value will be more accurate the more instantaneous values you include in the average. (I included 100 values).
