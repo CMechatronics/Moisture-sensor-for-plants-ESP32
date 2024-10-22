@@ -21,9 +21,6 @@ In a capacitive sensor, the dielectric (in this case, the moisture in the soil) 
 
 The more water present in the soil, the more dipoles are present, which alters the material's ability to store electric charge (capacitance). That's why capacitive sensors can detect changes in moisture by measuring this variation in capacitance.
 
-![image](https://github.com/user-attachments/assets/32b3eb92-9626-471c-a8c7-b8b5bdac0588)
-
-
 ![image](https://github.com/user-attachments/assets/6931387f-bed3-4a26-8a3d-a1cd12734b46)
 
 
